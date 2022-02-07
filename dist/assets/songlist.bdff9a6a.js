@@ -1,0 +1,1 @@
+import{_ as o}from"./index.33dde8d4.js";import{r as s,o as t,i as n,w as r,h as a}from"./vendor.632c8900.js";const c={created(){console.log("songlist")}},_=a(" songlist ");function i(l,d,p,m,f,u){const e=s("el-mian");return t(),n(e,null,{default:r(()=>[_]),_:1})}var h=o(c,[["render",i]]);export{h as default};
